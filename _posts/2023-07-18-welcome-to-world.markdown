@@ -2,7 +2,7 @@
 layout: post
 title:  "First Blog"
 date:   2023-07-18 21:03:36 +0530
-categories: helloworld
+categories: javascript
 ---
 Hello Blog!
 
